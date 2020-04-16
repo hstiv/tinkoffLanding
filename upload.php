@@ -1,4 +1,0 @@
-<?php
-
-/* Getting file name */
-
